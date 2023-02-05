@@ -7,3 +7,24 @@
 [submodule "themes/paige"]
 	path = themes/paige
 	url = https://github.com/willfaught/paige.git
+[submodule "themes/binario"]
+	path = themes/binario
+	url = https://github.com/vimux/binario
+[submodule "themes/henry"]
+	path = themes/henry
+	url = git@github.com:kaushikgopal/henry-hugo.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/tikva"]
+	path = themes/tikva
+	url = https://github.com/geschke/hugo-tikva.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/risotto"]
+	path = themes/risotto
+	url = https://github.com/joeroe/risotto.git
+[submodule "themes/stack"]
+	path = themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git

@@ -1,0 +1,43 @@
+baseURL: https://blog.millaguie.net/
+languageCode: en-uk
+DefaultContentLanguage: en
+title: Millaguie's view of life
+theme: stack
+paginate: 20
+disqusShortname: stack
+copyright: © 2005–2023 [Millaguie](https://millaguie.net).
+permalinks:
+  post: /post/:year/:month/:title
+  page: /:slug/
+
+params:
+  mainSections:
+    - posts
+    - pages
+  featuredImageField: image
+  colorScheme:
+    toggle: false
+    default: dark
+  rssFullContent: true
+  sidebar:
+    emoji: 🍛
+    subtitle: I'm old enough to bleed, I'm old enough to breed, I'm old enough to
+      crack a brick in your teeth while you sleep.
+    avatar:
+      enabled: true
+      local: false
+      src: /images/avatar.jpeg
+  widgets:
+    homepage:
+      - type: search
+    #   - type: archives
+    #     params:
+    #         limit: 5
+      - type: tag-cloud
+        params:
+            limit: 30
+    page:
+      - type: toc
+      - type: tag-cloud
+        params:
+            limit: 30
