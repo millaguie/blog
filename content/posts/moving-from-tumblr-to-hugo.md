@@ -7,8 +7,6 @@ tags:
   - tumblr
 ---
 
-# Moving from Tumblr to Hugo
-
 In 2015 I stop to post in Tumblr I don't remember why, but there are still some posts I will love to keep, and one of my new year's resolution is to get back blogging.
 
 I don't want to use Tumblr, I'm really into using MarkDown everywhere so Hugo seems the better option to mix both things, blogging and MarkDown.
