@@ -5,6 +5,835 @@
     <link>http://blog.millaguie.net/tags/</link>
     <description>Recent content in Tags on Millaguie&#39;s view of life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="http://blog.millaguie.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 05 Feb 2023 15:42:43 +0100</lastBuildDate><atom:link href="http://blog.millaguie.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>http://blog.millaguie.net/tags/hugo/</link>
+      <pubDate>Sun, 05 Feb 2023 15:42:43 +0100</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tumblr</title>
+      <link>http://blog.millaguie.net/tags/tumblr/</link>
+      <pubDate>Sun, 05 Feb 2023 15:42:43 +0100</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/tumblr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>http://blog.millaguie.net/tags/tutorial/</link>
+      <pubDate>Sun, 05 Feb 2023 15:42:43 +0100</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>london</title>
+      <link>http://blog.millaguie.net/tags/london/</link>
+      <pubDate>Sat, 20 Sep 2014 18:24:09 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tube</title>
+      <link>http://blog.millaguie.net/tags/tube/</link>
+      <pubDate>Sat, 20 Sep 2014 18:24:09 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/tube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backuppc</title>
+      <link>http://blog.millaguie.net/tags/backuppc/</link>
+      <pubDate>Thu, 09 Jan 2014 19:35:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/backuppc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mover de servidor</title>
+      <link>http://blog.millaguie.net/tags/mover-de-servidor/</link>
+      <pubDate>Thu, 09 Jan 2014 19:35:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/mover-de-servidor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPv6</title>
+      <link>http://blog.millaguie.net/tags/ipv6/</link>
+      <pubDate>Sat, 02 Jun 2012 13:40:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/ipv6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>http://blog.millaguie.net/tags/raspberry-pi/</link>
+      <pubDate>Sat, 02 Jun 2012 13:40:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macbook pro</title>
+      <link>http://blog.millaguie.net/tags/macbook-pro/</link>
+      <pubDate>Wed, 19 Oct 2011 09:57:52 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/macbook-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nuevos macbook pro</title>
+      <link>http://blog.millaguie.net/tags/nuevos-macbook-pro/</link>
+      <pubDate>Wed, 19 Oct 2011 09:57:52 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/nuevos-macbook-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codificación no válida</title>
+      <link>http://blog.millaguie.net/tags/codificaci%C3%B3n-no-v%C3%A1lida/</link>
+      <pubDate>Fri, 02 Sep 2011 11:24:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/codificaci%C3%B3n-no-v%C3%A1lida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convmv</title>
+      <link>http://blog.millaguie.net/tags/convmv/</link>
+      <pubDate>Fri, 02 Sep 2011 11:24:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/convmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>http://blog.millaguie.net/tags/ubuntu/</link>
+      <pubDate>Fri, 02 Sep 2011 11:24:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utf8</title>
+      <link>http://blog.millaguie.net/tags/utf8/</link>
+      <pubDate>Fri, 02 Sep 2011 11:24:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/utf8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buscar y remplazar</title>
+      <link>http://blog.millaguie.net/tags/buscar-y-remplazar/</link>
+      <pubDate>Wed, 06 Jul 2011 09:37:34 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/buscar-y-remplazar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>http://blog.millaguie.net/tags/perl/</link>
+      <pubDate>Wed, 06 Jul 2011 09:37:34 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>receta</title>
+      <link>http://blog.millaguie.net/tags/receta/</link>
+      <pubDate>Wed, 06 Jul 2011 09:37:34 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/receta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanishrevolution</title>
+      <link>http://blog.millaguie.net/tags/spanishrevolution/</link>
+      <pubDate>Sun, 22 May 2011 13:35:21 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/spanishrevolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exagerar</title>
+      <link>http://blog.millaguie.net/tags/exagerar/</link>
+      <pubDate>Wed, 13 Apr 2011 21:29:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/exagerar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metro Madrid</title>
+      <link>http://blog.millaguie.net/tags/metro-madrid/</link>
+      <pubDate>Wed, 13 Apr 2011 21:29:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/metro-madrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acogida2011</title>
+      <link>http://blog.millaguie.net/tags/acogida2011/</link>
+      <pubDate>Sat, 26 Mar 2011 15:20:49 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/acogida2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memoria histórica</title>
+      <link>http://blog.millaguie.net/tags/memoria-hist%C3%B3rica/</link>
+      <pubDate>Sat, 26 Mar 2011 15:20:49 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/memoria-hist%C3%B3rica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nolesvotes</title>
+      <link>http://blog.millaguie.net/tags/nolesvotes/</link>
+      <pubDate>Thu, 10 Mar 2011 23:03:42 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/nolesvotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leysinde</title>
+      <link>http://blog.millaguie.net/tags/leysinde/</link>
+      <pubDate>Sun, 13 Feb 2011 20:58:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/leysinde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operaciongoya</title>
+      <link>http://blog.millaguie.net/tags/operaciongoya/</link>
+      <pubDate>Sun, 13 Feb 2011 20:58:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/operaciongoya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alejandrosanz</title>
+      <link>http://blog.millaguie.net/tags/alejandrosanz/</link>
+      <pubDate>Tue, 08 Feb 2011 09:21:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/alejandrosanz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sida</title>
+      <link>http://blog.millaguie.net/tags/sida/</link>
+      <pubDate>Tue, 08 Feb 2011 09:21:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/sida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libertad de expresión</title>
+      <link>http://blog.millaguie.net/tags/libertad-de-expresi%C3%B3n/</link>
+      <pubDate>Mon, 07 Feb 2011 23:42:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/libertad-de-expresi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sinde</title>
+      <link>http://blog.millaguie.net/tags/sinde/</link>
+      <pubDate>Mon, 07 Feb 2011 23:42:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/sinde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biden-sinde</title>
+      <link>http://blog.millaguie.net/tags/biden-sinde/</link>
+      <pubDate>Tue, 25 Jan 2011 22:56:39 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/biden-sinde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alejandro sanz</title>
+      <link>http://blog.millaguie.net/tags/alejandro-sanz/</link>
+      <pubDate>Thu, 23 Dec 2010 22:21:08 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/alejandro-sanz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>democracia directa</title>
+      <link>http://blog.millaguie.net/tags/democracia-directa/</link>
+      <pubDate>Thu, 23 Dec 2010 22:21:08 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/democracia-directa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dictadura de los señores de la red</title>
+      <link>http://blog.millaguie.net/tags/dictadura-de-los-se%C3%B1ores-de-la-red/</link>
+      <pubDate>Thu, 23 Dec 2010 22:21:08 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/dictadura-de-los-se%C3%B1ores-de-la-red/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dictadura del proletariado</title>
+      <link>http://blog.millaguie.net/tags/dictadura-del-proletariado/</link>
+      <pubDate>Thu, 23 Dec 2010 22:21:08 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/dictadura-del-proletariado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crisis</title>
+      <link>http://blog.millaguie.net/tags/crisis/</link>
+      <pubDate>Thu, 23 Dec 2010 15:27:54 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>las uvas de la ira</title>
+      <link>http://blog.millaguie.net/tags/las-uvas-de-la-ira/</link>
+      <pubDate>Thu, 23 Dec 2010 15:27:54 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/las-uvas-de-la-ira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>los mercados</title>
+      <link>http://blog.millaguie.net/tags/los-mercados/</link>
+      <pubDate>Thu, 23 Dec 2010 15:27:54 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/los-mercados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dimisión</title>
+      <link>http://blog.millaguie.net/tags/dimisi%C3%B3n/</link>
+      <pubDate>Tue, 21 Dec 2010 20:51:10 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/dimisi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ley sinde</title>
+      <link>http://blog.millaguie.net/tags/ley-sinde/</link>
+      <pubDate>Tue, 21 Dec 2010 20:51:10 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/ley-sinde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bancos</title>
+      <link>http://blog.millaguie.net/tags/bancos/</link>
+      <pubDate>Fri, 17 Dec 2010 09:42:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/bancos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pisos</title>
+      <link>http://blog.millaguie.net/tags/pisos/</link>
+      <pubDate>Fri, 17 Dec 2010 09:42:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/pisos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>política</title>
+      <link>http://blog.millaguie.net/tags/pol%C3%ADtica/</link>
+      <pubDate>Fri, 17 Dec 2010 09:42:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/pol%C3%ADtica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>celtas cortos</title>
+      <link>http://blog.millaguie.net/tags/celtas-cortos/</link>
+      <pubDate>Thu, 16 Dec 2010 20:10:38 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/celtas-cortos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jesus cifuentes</title>
+      <link>http://blog.millaguie.net/tags/jesus-cifuentes/</link>
+      <pubDate>Thu, 16 Dec 2010 20:10:38 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/jesus-cifuentes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fallo</title>
+      <link>http://blog.millaguie.net/tags/fallo/</link>
+      <pubDate>Mon, 22 Nov 2010 18:03:58 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/fallo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metro de Madrid</title>
+      <link>http://blog.millaguie.net/tags/metro-de-madrid/</link>
+      <pubDate>Mon, 22 Nov 2010 18:03:58 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/metro-de-madrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vending</title>
+      <link>http://blog.millaguie.net/tags/vending/</link>
+      <pubDate>Mon, 22 Nov 2010 18:03:58 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/vending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deuda</title>
+      <link>http://blog.millaguie.net/tags/deuda/</link>
+      <pubDate>Mon, 22 Nov 2010 08:08:15 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/deuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error</title>
+      <link>http://blog.millaguie.net/tags/error/</link>
+      <pubDate>Sun, 21 Nov 2010 20:02:48 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gracioso</title>
+      <link>http://blog.millaguie.net/tags/gracioso/</link>
+      <pubDate>Sun, 21 Nov 2010 20:02:48 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/gracioso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>campos de refugiados</title>
+      <link>http://blog.millaguie.net/tags/campos-de-refugiados/</link>
+      <pubDate>Wed, 10 Nov 2010 18:52:48 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/campos-de-refugiados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sahara</title>
+      <link>http://blog.millaguie.net/tags/sahara/</link>
+      <pubDate>Wed, 10 Nov 2010 18:52:48 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/sahara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autobús</title>
+      <link>http://blog.millaguie.net/tags/autob%C3%BAs/</link>
+      <pubDate>Fri, 02 Jul 2010 18:15:30 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/autob%C3%BAs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>señoras que</title>
+      <link>http://blog.millaguie.net/tags/se%C3%B1oras-que/</link>
+      <pubDate>Fri, 02 Jul 2010 18:15:30 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/se%C3%B1oras-que/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aeci</title>
+      <link>http://blog.millaguie.net/tags/aeci/</link>
+      <pubDate>Mon, 28 Jun 2010 09:58:01 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/aeci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ong</title>
+      <link>http://blog.millaguie.net/tags/ong/</link>
+      <pubDate>Mon, 28 Jun 2010 09:58:01 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/ong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capitalismo</title>
+      <link>http://blog.millaguie.net/tags/capitalismo/</link>
+      <pubDate>Fri, 18 Jun 2010 18:45:40 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/capitalismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primero de mayo</title>
+      <link>http://blog.millaguie.net/tags/primero-de-mayo/</link>
+      <pubDate>Fri, 18 Jun 2010 18:45:40 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/primero-de-mayo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free gaza</title>
+      <link>http://blog.millaguie.net/tags/free-gaza/</link>
+      <pubDate>Tue, 08 Jun 2010 00:01:13 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/free-gaza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nichols O’Keefe</title>
+      <link>http://blog.millaguie.net/tags/nichols-okeefe/</link>
+      <pubDate>Tue, 08 Jun 2010 00:01:13 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/nichols-okeefe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>palestina</title>
+      <link>http://blog.millaguie.net/tags/palestina/</link>
+      <pubDate>Tue, 08 Jun 2010 00:01:13 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/palestina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erdogan</title>
+      <link>http://blog.millaguie.net/tags/erdogan/</link>
+      <pubDate>Sat, 05 Jun 2010 01:50:44 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/erdogan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>israel</title>
+      <link>http://blog.millaguie.net/tags/israel/</link>
+      <pubDate>Sat, 05 Jun 2010 01:50:44 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/israel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no matarás</title>
+      <link>http://blog.millaguie.net/tags/no-matar%C3%A1s/</link>
+      <pubDate>Sat, 05 Jun 2010 01:50:44 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/no-matar%C3%A1s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nobel de la paz</title>
+      <link>http://blog.millaguie.net/tags/nobel-de-la-paz/</link>
+      <pubDate>Fri, 04 Jun 2010 11:07:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/nobel-de-la-paz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obama</title>
+      <link>http://blog.millaguie.net/tags/obama/</link>
+      <pubDate>Fri, 04 Jun 2010 11:07:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/obama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carril bici</title>
+      <link>http://blog.millaguie.net/tags/carril-bici/</link>
+      <pubDate>Tue, 18 May 2010 09:09:27 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/carril-bici/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>madrid</title>
+      <link>http://blog.millaguie.net/tags/madrid/</link>
+      <pubDate>Tue, 18 May 2010 09:09:27 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/madrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movilidad</title>
+      <link>http://blog.millaguie.net/tags/movilidad/</link>
+      <pubDate>Tue, 18 May 2010 09:09:27 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/movilidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error Windows</title>
+      <link>http://blog.millaguie.net/tags/error-windows/</link>
+      <pubDate>Tue, 18 May 2010 08:52:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/error-windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>expendedora</title>
+      <link>http://blog.millaguie.net/tags/expendedora/</link>
+      <pubDate>Tue, 18 May 2010 08:52:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/expendedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metro</title>
+      <link>http://blog.millaguie.net/tags/metro/</link>
+      <pubDate>Tue, 18 May 2010 08:52:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/metro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accidente</title>
+      <link>http://blog.millaguie.net/tags/accidente/</link>
+      <pubDate>Thu, 13 May 2010 16:56:17 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/accidente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piedad cordoba</title>
+      <link>http://blog.millaguie.net/tags/piedad-cordoba/</link>
+      <pubDate>Thu, 13 May 2010 16:56:17 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/piedad-cordoba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.000 millones de euros</title>
+      <link>http://blog.millaguie.net/tags/15.000-millones-de-euros/</link>
+      <pubDate>Thu, 13 May 2010 10:48:05 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/15.000-millones-de-euros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economia</title>
+      <link>http://blog.millaguie.net/tags/economia/</link>
+      <pubDate>Thu, 13 May 2010 10:48:05 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/economia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>españa</title>
+      <link>http://blog.millaguie.net/tags/espa%C3%B1a/</link>
+      <pubDate>Thu, 13 May 2010 10:48:05 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/espa%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recorte</title>
+      <link>http://blog.millaguie.net/tags/recorte/</link>
+      <pubDate>Thu, 13 May 2010 10:48:05 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/recorte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>identificaciones de migrantes</title>
+      <link>http://blog.millaguie.net/tags/identificaciones-de-migrantes/</link>
+      <pubDate>Mon, 10 May 2010 09:16:04 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/identificaciones-de-migrantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>policía</title>
+      <link>http://blog.millaguie.net/tags/polic%C3%ADa/</link>
+      <pubDate>Mon, 10 May 2010 09:16:04 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/polic%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>http://blog.millaguie.net/tags/internet/</link>
+      <pubDate>Tue, 20 Apr 2010 11:54:41 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>padre nuestro</title>
+      <link>http://blog.millaguie.net/tags/padre-nuestro/</link>
+      <pubDate>Tue, 20 Apr 2010 11:54:41 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/padre-nuestro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plegaria</title>
+      <link>http://blog.millaguie.net/tags/plegaria/</link>
+      <pubDate>Tue, 20 Apr 2010 11:54:41 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/plegaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://blog.millaguie.net/tags/software/</link>
+      <pubDate>Tue, 20 Apr 2010 11:54:41 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>@31febrero</title>
+      <link>http://blog.millaguie.net/tags/31febrero/</link>
+      <pubDate>Mon, 01 Mar 2010 20:03:44 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/31febrero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>31 de febrero</title>
+      <link>http://blog.millaguie.net/tags/31-de-febrero/</link>
+      <pubDate>Mon, 01 Mar 2010 20:03:44 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/31-de-febrero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agua</title>
+      <link>http://blog.millaguie.net/tags/agua/</link>
+      <pubDate>Tue, 23 Feb 2010 23:47:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/agua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memoria usb</title>
+      <link>http://blog.millaguie.net/tags/memoria-usb/</link>
+      <pubDate>Tue, 23 Feb 2010 23:47:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/memoria-usb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reparar</title>
+      <link>http://blog.millaguie.net/tags/reparar/</link>
+      <pubDate>Tue, 23 Feb 2010 23:47:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/reparar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>http://blog.millaguie.net/tags/2016/</link>
+      <pubDate>Wed, 09 Sep 2009 12:56:04 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fail</title>
+      <link>http://blog.millaguie.net/tags/fail/</link>
+      <pubDate>Wed, 09 Sep 2009 12:56:04 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/tags/fail/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,6 +5,1041 @@
     <link>http://blog.millaguie.net/</link>
     <description>Recent content on Millaguie&#39;s view of life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="http://blog.millaguie.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 05 Feb 2023 15:42:43 +0100</lastBuildDate><atom:link href="http://blog.millaguie.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving from tumblr to hugo</title>
+      <link>http://blog.millaguie.net/posts/moving-from-tumblr-to-hugo/</link>
+      <pubDate>Sun, 05 Feb 2023 15:42:43 +0100</pubDate>
+      
+      <guid>http://blog.millaguie.net/posts/moving-from-tumblr-to-hugo/</guid>
+      <description>Moving from Tumblr to Hugo In 2015 I stop to post in Tumblr I don&amp;rsquo;t remember why, but there are still some posts I will love to keep, and one of my new year&amp;rsquo;s resolution is to get back blogging.
+I don&amp;rsquo;t want to use Tumblr, I&amp;rsquo;m really into using MarkDown everywhere so Hugo seems the better option to mix both things, blogging and MarkDown.
+So the first thing seems obvious, migrate the old posts to hugo.</description>
+    </item>
+    
+    <item>
+      <title>sacar el caballo a pasear al parque todo muy</title>
+      <link>http://blog.millaguie.net/2015/05/15/sacar-el-caballo-a-pasear-al-parque-todo-muy/</link>
+      <pubDate>Fri, 15 May 2015 18:02:08 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2015/05/15/sacar-el-caballo-a-pasear-al-parque-todo-muy/</guid>
+      <description>Sacar el caballo a pasear al parque… Todo muy normal</description>
+    </item>
+    
+    <item>
+      <title>arte transgresor tate</title>
+      <link>http://blog.millaguie.net/2014/11/29/arte-transgresor-tate/</link>
+      <pubDate>Sat, 29 Nov 2014 19:36:30 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2014/11/29/arte-transgresor-tate/</guid>
+      <description>Arte transgresor @ tate</description>
+    </item>
+    
+    <item>
+      <title>originalidad londinense</title>
+      <link>http://blog.millaguie.net/2014/11/15/originalidad-londinense/</link>
+      <pubDate>Sat, 15 Nov 2014 21:23:38 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2014/11/15/originalidad-londinense/</guid>
+      <description>Originalidad londinense</description>
+    </item>
+    
+    <item>
+      <title>going back home</title>
+      <link>http://blog.millaguie.net/2014/11/07/going-back-home/</link>
+      <pubDate>Fri, 07 Nov 2014 12:01:13 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2014/11/07/going-back-home/</guid>
+      <description>Going back home</description>
+    </item>
+    
+    <item>
+      <title>fireworks at southwark park</title>
+      <link>http://blog.millaguie.net/2014/11/05/fireworks-at-southwark-park/</link>
+      <pubDate>Wed, 05 Nov 2014 22:15:42 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2014/11/05/fireworks-at-southwark-park/</guid>
+      <description>Fireworks at Southwark park</description>
+    </item>
+    
+    <item>
+      <title>cosas que ves en el metro y no terminas de</title>
+      <link>http://blog.millaguie.net/2014/09/20/cosas-que-ves-en-el-metro-y-no-terminas-de/</link>
+      <pubDate>Sat, 20 Sep 2014 18:24:09 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2014/09/20/cosas-que-ves-en-el-metro-y-no-terminas-de/</guid>
+      <description>Cosas que ves en el metro y no terminas de entender. Horse is not included</description>
+    </item>
+    
+    <item>
+      <title>Como mover copias de seguridad de backuppc de un servidor a otro</title>
+      <link>http://blog.millaguie.net/2014/01/09/como-mover-copias-de-seguridad-de-backuppc-de-un/</link>
+      <pubDate>Thu, 09 Jan 2014 19:35:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2014/01/09/como-mover-copias-de-seguridad-de-backuppc-de-un/</guid>
+      <description>Básicamente:
+su - backuppc
+cd /var/lib/backuppc
+rsync -e “ssh -c arcfour&amp;quot; -avP –exclude pc/* trash/* ./ newserver.example.com:/var/lib/backuppc/
+/usr/share/backuppc/bin/BackupPC_tarPCCopy /var/lib/backuppc/pc |ssh -c arcfour root@newserver.example.com &amp;ldquo;cd /var/lib/backuppc/ ; tar xvPf -”
+El rsync, puede tardar algunaos horas días…</description>
+    </item>
+    
+    <item>
+      <title>tomada con instagram</title>
+      <link>http://blog.millaguie.net/2012/06/28/tomada-con-instagram/</link>
+      <pubDate>Thu, 28 Jun 2012 11:24:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2012/06/28/tomada-con-instagram/</guid>
+      <description>Tomada con Instagram</description>
+    </item>
+    
+    <item>
+      <title>IPv6 Support in RaspberryPi&#39;s kernel</title>
+      <link>http://blog.millaguie.net/2012/06/02/ipv6-support-in-raspberrypis-kernel/</link>
+      <pubDate>Sat, 02 Jun 2012 13:40:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2012/06/02/ipv6-support-in-raspberrypis-kernel/</guid>
+      <description>Yesterday arrived my Raspberry Pi, I’m thinking about making some appliances just for fun. I’ll prepare some ready to burn SD images with the appliances.
+The first one is a IPv6 tunneling router. Some minutes after you plug this RaspberryPi in your network you’ll have IPv6 conectivity in your network, just plug and play ;)
+I’ll be using IPv6 autoconfiguration and tunneling. So, it’s not really complicated. The first problem ahead is Raspberry Pi Debian’s kernel doesn’t have IPv6 sopport.</description>
+    </item>
+    
+    <item>
+      <title>¿Nuevos macbook pro a la venta hoy?</title>
+      <link>http://blog.millaguie.net/2011/10/19/nuevos-macbook-pro-a-la-venta-hoy/</link>
+      <pubDate>Wed, 19 Oct 2011 09:57:52 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/10/19/nuevos-macbook-pro-a-la-venta-hoy/</guid>
+      <description>La tienda de apple está fuera de línea, ¿será que están montando las estanterías para los nuevos macbook pro?</description>
+    </item>
+    
+    <item>
+      <title>en la portada de el pais podrían cambiar el pie</title>
+      <link>http://blog.millaguie.net/2011/10/10/en-la-portada-de-el-pais-podr%C3%ADan-cambiar-el-pie/</link>
+      <pubDate>Mon, 10 Oct 2011 10:28:20 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/10/10/en-la-portada-de-el-pais-podr%C3%ADan-cambiar-el-pie/</guid>
+      <description>En la portada de El Pais… podrían cambiar el pie de página por “Vettel celebra el campeonato con un espectacular bukkake”
+No podrían tener más ojito al elegir las fotos?</description>
+    </item>
+    
+    <item>
+      <title>Aviso a navegantes IPv6</title>
+      <link>http://blog.millaguie.net/2011/09/14/aviso-a-navegantes-ipv6/</link>
+      <pubDate>Wed, 14 Sep 2011 21:42:51 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/09/14/aviso-a-navegantes-ipv6/</guid>
+      <description>Recordad que usando IPv6 tienes una ip pública y que tu samba abierto para ver las fotos de tu familia en la red local también las puedo ver yo desde internet… Ahora si… configurad vuestro firewalll y no dejéis las ventanas abiertas.
+(Me despido con voz de maligno) buaa ha ha ha ha ha</description>
+    </item>
+    
+    <item>
+      <title>Solucionar problemas de codificación en los nombres de los archivos</title>
+      <link>http://blog.millaguie.net/2011/09/02/solucionar-problemas-de-codificaci%C3%B3n-en-los/</link>
+      <pubDate>Fri, 02 Sep 2011 11:24:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/09/02/solucionar-problemas-de-codificaci%C3%B3n-en-los/</guid>
+      <description>Muchas veces te habrá pasado que al descomprimir un RAR o al bajarte algún torrent con linux los ficheros tienen nombres con la codificación no válida o directamente caracteres chungos que luego muchas veces no te deja trabajar con ellos. Gracias a que el monesvol es todo poderoso tenemos un ayudante que nos soluciona esta papeleta, se trata deconvmv y se ejecuta así:
+convmv -r -f iso8859-1 -t utf8 directorio_chungo</description>
+    </item>
+    
+    <item>
+      <title>Buscar y remplazar en un montón de archivos con perl</title>
+      <link>http://blog.millaguie.net/2011/07/06/buscar-y-remplazar-en-un-mont%C3%B3n-de-archivos-con/</link>
+      <pubDate>Wed, 06 Jul 2011 09:37:34 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/07/06/buscar-y-remplazar-en-un-mont%C3%B3n-de-archivos-con/</guid>
+      <description>Pues empiezo a olvidar cosas así que mejor ir apuntando en el blog estas cosas…
+Para sustituir aguja por pajar en todos los html del directorio actual
+perl -pi -e ’s/aguja/pajar/g’ *html</description>
+    </item>
+    
+    <item>
+      <title>curiosamente la caja de las cochinadas esta al</title>
+      <link>http://blog.millaguie.net/2011/06/08/curiosamente-la-caja-de-las-cochinadas-esta-al/</link>
+      <pubDate>Wed, 08 Jun 2011 20:25:53 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/06/08/curiosamente-la-caja-de-las-cochinadas-esta-al/</guid>
+      <description>Curiosamente la caja de las cochinadas esta al lado de la caja de las galletas</description>
+    </item>
+    
+    <item>
+      <title>por fin encontré los discos que necesita</title>
+      <link>http://blog.millaguie.net/2011/06/06/por-fin-encontr%C3%A9-los-discos-que-necesita/</link>
+      <pubDate>Mon, 06 Jun 2011 09:44:17 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/06/06/por-fin-encontr%C3%A9-los-discos-que-necesita/</guid>
+      <description>Por fin encontré los discos que necesita</description>
+    </item>
+    
+    <item>
+      <title>saturación de m</title>
+      <link>http://blog.millaguie.net/2011/05/31/saturaci%C3%B3n-de-m/</link>
+      <pubDate>Tue, 31 May 2011 16:43:32 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/05/31/saturaci%C3%B3n-de-m/</guid>
+      <description>Saturación de M</description>
+    </item>
+    
+    <item>
+      <title>voto a la vista de dios</title>
+      <link>http://blog.millaguie.net/2011/05/22/voto-a-la-vista-de-dios/</link>
+      <pubDate>Sun, 22 May 2011 13:35:21 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/05/22/voto-a-la-vista-de-dios/</guid>
+      <description>Voto a la vista de dios…</description>
+    </item>
+    
+    <item>
+      <title>caminando para subir al avión en varanasi</title>
+      <link>http://blog.millaguie.net/2011/04/30/caminando-para-subir-al-avi%C3%B3n-en-varanasi/</link>
+      <pubDate>Sat, 30 Apr 2011 08:13:38 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/04/30/caminando-para-subir-al-avi%C3%B3n-en-varanasi/</guid>
+      <description>Caminando para subir al avión en Varanasi</description>
+    </item>
+    
+    <item>
+      <title>momos desde nepal que parecen dinsum pero no lo</title>
+      <link>http://blog.millaguie.net/2011/04/23/momos-desde-nepal-que-parecen-dinsum-pero-no-lo/</link>
+      <pubDate>Sat, 23 Apr 2011 16:15:45 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/04/23/momos-desde-nepal-que-parecen-dinsum-pero-no-lo/</guid>
+      <description>Momos desde Nepal que parecen dinsum pero no lo son…</description>
+    </item>
+    
+    <item>
+      <title>90 millones de personas beneficiarias me parece</title>
+      <link>http://blog.millaguie.net/2011/04/13/90-millones-de-personas-beneficiarias-me-parece/</link>
+      <pubDate>Wed, 13 Apr 2011 21:29:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/04/13/90-millones-de-personas-beneficiarias-me-parece/</guid>
+      <description>90 millones de personas beneficiarias me parece, por lo menos, exagerar…</description>
+    </item>
+    
+    <item>
+      <title>fuera wikipedia una explicación al pie vendría</title>
+      <link>http://blog.millaguie.net/2011/03/30/fuera-wikipedia-una-explicaci%C3%B3n-al-pie-vendr%C3%ADa/</link>
+      <pubDate>Wed, 30 Mar 2011 19:46:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/03/30/fuera-wikipedia-una-explicaci%C3%B3n-al-pie-vendr%C3%ADa/</guid>
+      <description>Fuera Wikipedia!
+Una explicación al pie vendría muy bien</description>
+    </item>
+    
+    <item>
+      <title>sin comentarios no comment</title>
+      <link>http://blog.millaguie.net/2011/03/26/sin-comentarios-no-comment/</link>
+      <pubDate>Sat, 26 Mar 2011 15:20:49 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/03/26/sin-comentarios-no-comment/</guid>
+      <description>Sin comentarios | No comment</description>
+    </item>
+    
+    <item>
+      <title>el metrobús no existe, y este hombre es el consejero de transportes de Madrid (PP)</title>
+      <link>http://blog.millaguie.net/2011/03/10/el-metrob%C3%BAs-no-existe-y-este-hombre-es-el/</link>
+      <pubDate>Thu, 10 Mar 2011 23:03:42 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/03/10/el-metrob%C3%BAs-no-existe-y-este-hombre-es-el/</guid>
+      <description>¿Qué mas se puede añadir aparte de #nolesvotes ?</description>
+    </item>
+    
+    <item>
+      <title>yo ya estaba seguro que no les iba a votar a</title>
+      <link>http://blog.millaguie.net/2011/02/18/yo-ya-estaba-seguro-que-no-les-iba-a-votar-a/</link>
+      <pubDate>Fri, 18 Feb 2011 23:54:12 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/18/yo-ya-estaba-seguro-que-no-les-iba-a-votar-a/</guid>
+      <description>Yo ya estaba seguro que no les iba a votar a ninguno de los tres… a uno porque no puedo, y por que son de derechas, a otro porque es de derechas y a otro porque es de derechas…</description>
+    </item>
+    
+    <item>
+      <title>Se pueden buscar las diferencias entre lo que se está emitiendo en la 1 y lo que se está emitiendo en http://www.rtve.es/noticias/directo2/ #operaciongoya #leysinde no están informando, están censurando…</title>
+      <link>http://blog.millaguie.net/2011/02/13/se-pueden-buscar-las-diferencias-entre-lo-que-se/</link>
+      <pubDate>Sun, 13 Feb 2011 21:17:50 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/13/se-pueden-buscar-las-diferencias-entre-lo-que-se/</guid>
+      <description>Se pueden buscar las diferencias entre lo que se está emitiendo en la 1 y lo que se está emitiendo en http://www.rtve.es/noticias/directo2/ #operaciongoya #leysinde no están informando, están censurando…
+—</description>
+    </item>
+    
+    <item>
+      <title>Me parece increíble la cara con la que entran los actores en la gala, parece que realmente se están dando cuenta que los cuatro gatos de internet deben ser 400 ahí fuera, y eso que fuera de la red no se movilizan… #operacióngoya</title>
+      <link>http://blog.millaguie.net/2011/02/13/me-parece-incre%C3%ADble-la-cara-con-la-que-entran-los/</link>
+      <pubDate>Sun, 13 Feb 2011 21:10:02 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/13/me-parece-incre%C3%ADble-la-cara-con-la-que-entran-los/</guid>
+      <description>Me parece increíble la cara con la que entran los actores en la gala, parece que realmente se están dando cuenta que los cuatro gatos de internet deben ser 400 ahí fuera, y eso que fuera de la red no se movilizan… #operacióngoya
+—</description>
+    </item>
+    
+    <item>
+      <title>Con lo bien que está saliendo la #operaciongoya yo con la pata chula y sin poder salir de casa :/</title>
+      <link>http://blog.millaguie.net/2011/02/13/con-lo-bien-que-est%C3%A1-saliendo-la-operaciongoya-yo/</link>
+      <pubDate>Sun, 13 Feb 2011 20:58:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/13/con-lo-bien-que-est%C3%A1-saliendo-la-operaciongoya-yo/</guid>
+      <description>Con lo bien que está saliendo la #operaciongoya yo con la pata chula y sin poder salir de casa :/
+—</description>
+    </item>
+    
+    <item>
+      <title>Alejandro Sanz y los niños con SIDA en el tercer mundo</title>
+      <link>http://blog.millaguie.net/2011/02/08/alejandro-sanz-y-los-ni%C3%B1os-con-sida-en-el-tercer/</link>
+      <pubDate>Tue, 08 Feb 2011 09:21:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/08/alejandro-sanz-y-los-ni%C3%B1os-con-sida-en-el-tercer/</guid>
+      <description>He de reconocer que soy un poco cafre, y con total de no contaminarme los ojitos con material de deshecho no había leído el post completo de Alejandro Sanz…
+Pero tiene razón, voy a hacer lo que dice, voy a no ser un cagón y demostrar que estoy a favor de los derechos de los niños en África para que tengan medicación a su alcance (siento no citar textualmente pero es que las faltas que mete me duelen hasta a mi).</description>
+    </item>
+    
+    <item>
+      <title>La escuela de las Américas aplicada al conocimiento </title>
+      <link>http://blog.millaguie.net/2011/02/08/la-escuela-de-las-am%C3%A9ricas-aplicada-al/</link>
+      <pubDate>Tue, 08 Feb 2011 08:25:20 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/08/la-escuela-de-las-am%C3%A9ricas-aplicada-al/</guid>
+      <description>La escuela de las Américas aplicada al conocimiento
+Aqui no les hace falta “convencer” a los intermediarios de la justicia, tienen en la mano a los que crean las leyes…</description>
+    </item>
+    
+    <item>
+      <title>Artículo 20  de la (no tan magna) constitución española</title>
+      <link>http://blog.millaguie.net/2011/02/07/art%C3%ADculo-20-de-la-no-tan-magna-constituci%C3%B3n/</link>
+      <pubDate>Mon, 07 Feb 2011 23:42:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/07/art%C3%ADculo-20-de-la-no-tan-magna-constituci%C3%B3n/</guid>
+      <description>Id aprendiendooslo que nos va a hacer falta..
+Artículo 20
+Se reconocen y protegen los derechos: a) A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
+b) A la producción y creación literaria, artística, científica y técnica.
+c) A la libertad de cátedra.
+d) A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.</description>
+    </item>
+    
+    <item>
+      <title>sinde ya estamos aqui</title>
+      <link>http://blog.millaguie.net/2011/02/06/sinde-ya-estamos-aqui/</link>
+      <pubDate>Sun, 06 Feb 2011 16:04:36 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/06/sinde-ya-estamos-aqui/</guid>
+      <description>Sinde …. ya estamos aqui</description>
+    </item>
+    
+    <item>
+      <title>Telecinco en la sala de espera</title>
+      <link>http://blog.millaguie.net/2011/02/01/telecinco-en-la-sala-de-espera/</link>
+      <pubDate>Tue, 01 Feb 2011 11:48:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/02/01/telecinco-en-la-sala-de-espera/</guid>
+      <description>Como nuevo servicio algunas salas de espera del hospital de la princesa tiene una tele con telecinco… eso si avisan por megafonía para pasar… tele alta y megafonía calidad años 80, imagina el resultado…
+Edito: Tras más de una hora en la sala de espera viendo telecinco estoy seguro de que la única opción de futuro que tenemos es dar salida a ese enorme stock de armas nucleares… ¡que están cogiendo polvo coño!</description>
+    </item>
+    
+    <item>
+      <title>me cogi el metro para no andar</title>
+      <link>http://blog.millaguie.net/2011/01/28/me-cogi-el-metro-para-no-andar/</link>
+      <pubDate>Fri, 28 Jan 2011 11:59:02 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/01/28/me-cogi-el-metro-para-no-andar/</guid>
+      <description>Me cogi el metro para no andar</description>
+    </item>
+    
+    <item>
+      <title>Querido gobierno</title>
+      <link>http://blog.millaguie.net/2011/01/25/querido-gobierno/</link>
+      <pubDate>Tue, 25 Jan 2011 22:56:39 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/01/25/querido-gobierno/</guid>
+      <description>Viendo como está la cosa en nuestra África más cercana (Tunez, Argelia, Egipto…) ¿les parece el mejor momento de sacar la ley biden-sinde?
+La gente luego explota por donde menos se la espera y ustedes no están ahí por la gracia de dios (o de los mercados).
+Que al final puede resultar cierto eso de que el poder reside en el pueblo… y no en los mercados.</description>
+    </item>
+    
+    <item>
+      <title>no title</title>
+      <link>http://blog.millaguie.net/2011/01/14/muchas-ideas-corriendo-por-mi-cerebro-no-puedo/</link>
+      <pubDate>Fri, 14 Jan 2011 13:39:02 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/01/14/muchas-ideas-corriendo-por-mi-cerebro-no-puedo/</guid>
+      <description>“Muchas ideas corriendo por mi cerebro… no puedo decir la diferencias entre mi tv, internet o yo mismo…” pero “no puedes bajarte el sol”</description>
+    </item>
+    
+    <item>
+      <title>“Os adjunto la carta para que veaís que ordenador es, lo teneís vosotros,[…] es un ordenador portátil gris marca SNSV”
+
+Tras 2 minutos le dí la vuelta a la pantalla y lo entendí todo…</title>
+      <link>http://blog.millaguie.net/2011/01/11/os-adjunto-la-carta-para-que-vea%C3%ADs-que-ordenador/</link>
+      <pubDate>Tue, 11 Jan 2011 13:49:20 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/01/11/os-adjunto-la-carta-para-que-vea%C3%ADs-que-ordenador/</guid>
+      <description>“Os adjunto la carta para que veaís que ordenador es, lo teneís vosotros,[…] es un ordenador portátil gris marca SNSV”
+Tras 2 minutos le dí la vuelta a la pantalla y lo entendí todo…
+—Usuarios… ¿quién los entiende?</description>
+    </item>
+    
+    <item>
+      <title>El Belén de lavapies por Leo Bassi</title>
+      <link>http://blog.millaguie.net/2011/01/05/el-bel%C3%A9n-de-lavapies-por-leo-bassi/</link>
+      <pubDate>Wed, 05 Jan 2011 22:56:32 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2011/01/05/el-bel%C3%A9n-de-lavapies-por-leo-bassi/</guid>
+      <description>El Belén de lavapies por Leo Bassi
+Pero que grande es el Señor Bassi…</description>
+    </item>
+    
+    <item>
+      <title>unmundolibre feliz crisis y próspero temor</title>
+      <link>http://blog.millaguie.net/2010/12/31/unmundolibre-feliz-crisis-y-pr%C3%B3spero-temor/</link>
+      <pubDate>Fri, 31 Dec 2010 17:58:23 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/31/unmundolibre-feliz-crisis-y-pr%C3%B3spero-temor/</guid>
+      <description>unmundolibre:
+Feliz Crisis y Próspero Temor Nuevo :(
+y si… es de Grecia, la cuna de la civilización moderna…</description>
+    </item>
+    
+    <item>
+      <title>no title</title>
+      <link>http://blog.millaguie.net/2010/12/31/feliz-fin-de-a%C3%B1o-recordando-el-pasado-con-un-nuevo/</link>
+      <pubDate>Fri, 31 Dec 2010 17:57:27 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/31/feliz-fin-de-a%C3%B1o-recordando-el-pasado-con-un-nuevo/</guid>
+      <description>Feliz fin de año recordando el pasado con un nuevo temor en el armario… esta vez a los payasos…</description>
+    </item>
+    
+    <item>
+      <title>Los señores (y señoras) de la red</title>
+      <link>http://blog.millaguie.net/2010/12/23/los-se%C3%B1ores-y-se%C3%B1oras-de-la-red/</link>
+      <pubDate>Thu, 23 Dec 2010 22:21:08 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/23/los-se%C3%B1ores-y-se%C3%B1oras-de-la-red/</guid>
+      <description>Alejandro Sanz es un visionario, y lo ha dejado claro en una carta a El País, titulada “Es la dictadura de los Señores de la Red”, a la que yo añadiría las Señoras, que también tienen teclado.
+Ahora la aclaración, Alejandro, en adelante simplemente Ale, es un visionario y tiene razón aunque se adelanta un poco al tiempo. Internet poco a poco va siendo algo a lo que accede todo el mundo y en mayor o menor medida el que quiere piar (o twittear) puede hacerlo.</description>
+    </item>
+    
+    <item>
+      <title>no title</title>
+      <link>http://blog.millaguie.net/2010/12/23/aqui-es-donde-est%C3%A1-el-problema-que-alguien-le/</link>
+      <pubDate>Thu, 23 Dec 2010 15:27:54 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/23/aqui-es-donde-est%C3%A1-el-problema-que-alguien-le/</guid>
+      <description>Aqui es donde está el problema… que alguien le ponga cara a “los mercados”.
+Para poder partirsela…</description>
+    </item>
+    
+    <item>
+      <title>/me se ha quitado la camiseta y la hondea mientras corre por el salón tras conocer el resultado de la votación de la #leysinde</title>
+      <link>http://blog.millaguie.net/2010/12/21/me-se-ha-quitado-la-camiseta-y-la-hondea-mientras/</link>
+      <pubDate>Tue, 21 Dec 2010 22:39:56 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/21/me-se-ha-quitado-la-camiseta-y-la-hondea-mientras/</guid>
+      <description>/me se ha quitado la camiseta y la hondea mientras corre por el salón tras conocer el resultado de la votación de la #leysinde
+—</description>
+    </item>
+    
+    <item>
+      <title>Si al final resulta que la ley #sinde no sale, la ministra que le pone nombre debería dimitir, ¿no?</title>
+      <link>http://blog.millaguie.net/2010/12/21/si-al-final-resulta-que-la-ley-sinde-no-sale-la/</link>
+      <pubDate>Tue, 21 Dec 2010 20:51:10 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/21/si-al-final-resulta-que-la-ley-sinde-no-sale-la/</guid>
+      <description>Si al final resulta que la ley #sinde no sale, la ministra que le pone nombre debería dimitir, ¿no?
+—</description>
+    </item>
+    
+    <item>
+      <title>Que se vayan todos</title>
+      <link>http://blog.millaguie.net/2010/12/17/que-se-vayan-todos/</link>
+      <pubDate>Fri, 17 Dec 2010 09:42:18 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/17/que-se-vayan-todos/</guid>
+      <description>Que se vayan todos
+En el 2001, en Argentina, hubo un momento en el que los bancos (con apoyo del estado) prohibieron sacar grandes cantidades de dinero de los bancos, lo que se conoció como el corralito.
+En España no hace falta esto, porque los bancos ya mandan por encima de la sociedad, tan por encima que hasta tienen la capacidad de que el gobierno tome decisiones como esta.
+Lo único que me queda decir es lo que ya decían en Argentina hace 9 años, ¡Que se vayan todos!</description>
+    </item>
+    
+    <item>
+      <title>es la movida que tiene la vida nos hacemos viejos</title>
+      <link>http://blog.millaguie.net/2010/12/16/es-la-movida-que-tiene-la-vida-nos-hacemos-viejos/</link>
+      <pubDate>Thu, 16 Dec 2010 20:10:38 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/16/es-la-movida-que-tiene-la-vida-nos-hacemos-viejos/</guid>
+      <description>Es la movida que tiene la vida, nos hacemos viejos y se nos olvida…</description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>http://blog.millaguie.net/2010/12/07/7/</link>
+      <pubDate>Tue, 07 Dec 2010 20:36:16 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/07/7/</guid>
+      <description>-7°</description>
+    </item>
+    
+    <item>
+      <title>Todo el mundo preparándose para una gran ciberguerra y resulta que la primera es civil.
+
+¡Animo wikileaks!</title>
+      <link>http://blog.millaguie.net/2010/12/03/todo-el-mundo-prepar%C3%A1ndose-para-una-gran/</link>
+      <pubDate>Fri, 03 Dec 2010 23:08:55 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/03/todo-el-mundo-prepar%C3%A1ndose-para-una-gran/</guid>
+      <description>Todo el mundo preparándose para una gran ciberguerra y resulta que la primera es civil.
+¡Animo wikileaks!
+—</description>
+    </item>
+    
+    <item>
+      <title>no title</title>
+      <link>http://blog.millaguie.net/2010/12/01/esto-fue-justo-dos-minutos-despu%C3%A9s-de-esto/</link>
+      <pubDate>Wed, 01 Dec 2010 23:41:36 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/12/01/esto-fue-justo-dos-minutos-despu%C3%A9s-de-esto/</guid>
+      <description>esto fue justo dos minutos después de esto: http://www.extremaduraaldia.com/conferencia-internacional-de-software-libre-2007/richard-stallman-recibe-el-i-premio-internacional-extremadura-de-conocimiento-libre-en-la-cisl-30/32439.html
+Y si, ya me gustaría a mi ser así cuando sea mayor…</description>
+    </item>
+    
+    <item>
+      <title>cerves con colegas</title>
+      <link>http://blog.millaguie.net/2010/11/25/cerves-con-colegas/</link>
+      <pubDate>Thu, 25 Nov 2010 11:35:08 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/11/25/cerves-con-colegas/</guid>
+      <description>Cerves con colegas</description>
+    </item>
+    
+    <item>
+      <title>me recuerda a alguien mario</title>
+      <link>http://blog.millaguie.net/2010/11/24/me-recuerda-a-alguien-mario/</link>
+      <pubDate>Wed, 24 Nov 2010 16:44:02 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/11/24/me-recuerda-a-alguien-mario/</guid>
+      <description>Me recuerda a alguien… mario?</description>
+    </item>
+    
+    <item>
+      <title>colisión ip en el metro de madrid</title>
+      <link>http://blog.millaguie.net/2010/11/22/colisi%C3%B3n-ip-en-el-metro-de-madrid/</link>
+      <pubDate>Mon, 22 Nov 2010 18:03:58 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/11/22/colisi%C3%B3n-ip-en-el-metro-de-madrid/</guid>
+      <description>Colisión IP en el metro de Madrid</description>
+    </item>
+    
+    <item>
+      <title>esta máquina del metro me debe 50 cent</title>
+      <link>http://blog.millaguie.net/2010/11/22/esta-m%C3%A1quina-del-metro-me-debe-50-cent/</link>
+      <pubDate>Mon, 22 Nov 2010 08:08:15 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/11/22/esta-m%C3%A1quina-del-metro-me-debe-50-cent/</guid>
+      <description>Esta máquina del metro me debe 50 cent.</description>
+    </item>
+    
+    <item>
+      <title>mensaje de error en maquina de venta de sellos</title>
+      <link>http://blog.millaguie.net/2010/11/21/mensaje-de-error-en-maquina-de-venta-de-sellos/</link>
+      <pubDate>Sun, 21 Nov 2010 20:02:48 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/11/21/mensaje-de-error-en-maquina-de-venta-de-sellos/</guid>
+      <description>mensaje de error en maquina de venta de sellos griega. Creo que es bastante obvio el problema</description>
+    </item>
+    
+    <item>
+      <title>Campos de refugiados saharauis, febrero de 2010</title>
+      <link>http://blog.millaguie.net/2010/11/10/campos-de-refugiados-saharauis-febrero-de-2010/</link>
+      <pubDate>Wed, 10 Nov 2010 18:52:48 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/11/10/campos-de-refugiados-saharauis-febrero-de-2010/</guid>
+      <description>Campos de refugiados saharauis, febrero de 2010</description>
+    </item>
+    
+    <item>
+      <title>Nota mental Número 1: No uses Windows
+Nota menta Número 2: Si tienes que desplegar una instalación de windows con sysprep siempre instalalo en C: sólo en esa unidad y en ninguna otra.</title>
+      <link>http://blog.millaguie.net/2010/08/25/nota-mental-n%C3%BAmero-1-no-uses-windows-nota-menta/</link>
+      <pubDate>Wed, 25 Aug 2010 19:01:41 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/08/25/nota-mental-n%C3%BAmero-1-no-uses-windows-nota-menta/</guid>
+      <description>Nota mental Número 1: No uses Windows
+Nota menta Número 2: Si tienes que desplegar una instalación de windows con sysprep siempre instalalo en C: sólo en esa unidad y en ninguna otra.
+—3 días perdidos porque el **** Windows estaba instalado en F:</description>
+    </item>
+    
+    <item>
+      <title>no title</title>
+      <link>http://blog.millaguie.net/2010/08/19/no-vas-a-ganar-nunca/</link>
+      <pubDate>Thu, 19 Aug 2010 11:43:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/08/19/no-vas-a-ganar-nunca/</guid>
+      <description>No vas a ganar nunca…</description>
+    </item>
+    
+    <item>
+      <title>Como informático eres maduro cuando te dan dos discos de enorme capacidad y los montas en RAID1 en vez de RAID0</title>
+      <link>http://blog.millaguie.net/2010/08/02/como-inform%C3%A1tico-eres-maduro-cuando-te-dan-dos/</link>
+      <pubDate>Mon, 02 Aug 2010 00:15:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/08/02/como-inform%C3%A1tico-eres-maduro-cuando-te-dan-dos/</guid>
+      <description>Como informático eres maduro cuando te dan dos discos de enorme capacidad y los montas en RAID1 en vez de RAID0
+—</description>
+    </item>
+    
+    <item>
+      <title>Dar Salami</title>
+      <link>http://blog.millaguie.net/2010/07/30/dar-salami/</link>
+      <pubDate>Fri, 30 Jul 2010 16:04:53 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/07/30/dar-salami/</guid>
+      <description>Hay dos pueblos (este y este) que se llaman Dar Salami en el mundo… y esto es todo lo que voy a decir…</description>
+    </item>
+    
+    <item>
+      <title>El autobús tarda porque hay mucho parado que se monta y no se baja, como van frescos....</title>
+      <link>http://blog.millaguie.net/2010/07/02/el-autob%C3%BAs-tarda-porque-hay-mucho-parado-que-se/</link>
+      <pubDate>Fri, 02 Jul 2010 18:15:30 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/07/02/el-autob%C3%BAs-tarda-porque-hay-mucho-parado-que-se/</guid>
+      <description>una señora que esperaba el bus… verídico.</description>
+    </item>
+    
+    <item>
+      <title>las revoluciones por venir no se darán en las calles de las ciudades si no en las autopistas de la información </title>
+      <link>http://blog.millaguie.net/2010/06/30/las-revoluciones-por-venir-no-se-dar%C3%A1n-en-las/</link>
+      <pubDate>Wed, 30 Jun 2010 14:12:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/06/30/las-revoluciones-por-venir-no-se-dar%C3%A1n-en-las/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no hay recorte en proyectos</title>
+      <link>http://blog.millaguie.net/2010/06/28/no-hay-recorte-en-proyectos/</link>
+      <pubDate>Mon, 28 Jun 2010 09:58:01 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/06/28/no-hay-recorte-en-proyectos/</guid>
+      <description>la secretaria de estado comenta que no habrá recortes en el dinero dirigido a ong, o por lo menos eso he entendido</description>
+    </item>
+    
+    <item>
+      <title>cuáta gente fue a la manifestación quién va a</title>
+      <link>http://blog.millaguie.net/2010/06/18/cu%C3%A1ta-gente-fue-a-la-manifestaci%C3%B3n-qui%C3%A9n-va-a/</link>
+      <pubDate>Fri, 18 Jun 2010 18:45:40 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/06/18/cu%C3%A1ta-gente-fue-a-la-manifestaci%C3%B3n-qui%C3%A9n-va-a/</guid>
+      <description>cuáta gente fue a la manifestación? quién va a pagar la crisis?</description>
+    </item>
+    
+    <item>
+      <title>¿Alguien puede explicar, de forma que cualquiera pueda entenderlo, la diferencia entre: “no funciona” y “no se hacerlo”?
+Gracias,</title>
+      <link>http://blog.millaguie.net/2010/06/16/alguien-puede-explicar-de-forma-que-cualquiera/</link>
+      <pubDate>Wed, 16 Jun 2010 15:16:24 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/06/16/alguien-puede-explicar-de-forma-que-cualquiera/</guid>
+      <description>¿Alguien puede explicar, de forma que cualquiera pueda entenderlo, la diferencia entre: “no funciona” y “no se hacerlo”?
+Gracias,
+—</description>
+    </item>
+    
+    <item>
+      <title>no title</title>
+      <link>http://blog.millaguie.net/2010/06/08/no-todos-los-milicos-son-iguales/</link>
+      <pubDate>Tue, 08 Jun 2010 00:01:13 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/06/08/no-todos-los-milicos-son-iguales/</guid>
+      <description>no todos los milicos son iguales…</description>
+    </item>
+    
+    <item>
+      <title>no title</title>
+      <link>http://blog.millaguie.net/2010/06/05/erdogan-dici%C3%A9ndole-al-gobierno-israel%C3%AD-en-su/</link>
+      <pubDate>Sat, 05 Jun 2010 01:50:44 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/06/05/erdogan-dici%C3%A9ndole-al-gobierno-israel%C3%AD-en-su/</guid>
+      <description>Erdogan diciéndole al gobierno israelí en su propio idioma “no matarás”.
+Traducción del inglés:
+Ustedes dicen que actuamos con dos caras y que nosotros mentimos.
+No, ustedes son quienes tienen dos caras… ustedes son los mentirosos.
+Ustedes son quienes masacran y están orgullosos de ello.
+Ustedes… si, ustedes… una vez mas. Ustedes chicos saben bien como asesinar.
+Miren, estoy hablando a estos chicos en mi propia lengua.
+En su libro sagrado el testamento dice: ¡&amp;ldquo;No matarás&amp;rdquo;!</description>
+    </item>
+    
+    <item>
+      <title>Un nobel para la guerra</title>
+      <link>http://blog.millaguie.net/2010/06/04/un-nobel-para-la-guerra/</link>
+      <pubDate>Fri, 04 Jun 2010 11:07:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/06/04/un-nobel-para-la-guerra/</guid>
+      <description>Al presidente de los Estados Unidos le dieron un premio, una medalla que está reservada a los grandes pensadores y sobre todo a aquellas personas que ha dedicado y dedican su vida a la búsqueda de la paz.
+Está claro que el señor Obama, no es Bush, pero aparte del color de piel en su política exterior no hay mucha diferencia, mantiene la prisión inhumana de Guantánamo (y nadie sabe cuántas copias sin nombre repartidas por el mundo), continua la ocupación de Irak (ampliando los plazos cada poco tiempo) y sigue apostando por la desestabilización de Oriente Próximo, apoyando una guerra mal llevada en Afganistán y por encima de todo apoyando (por acción e inacción) a un estado cuyos principales líderes son merecedores de estar ante el tribunal penal internacional.</description>
+    </item>
+    
+    <item>
+      <title>Alcalá cortada por marcha propalestina</title>
+      <link>http://blog.millaguie.net/2010/05/31/alcal%C3%A1-cortada-por-marcha-propalestina/</link>
+      <pubDate>Mon, 31 May 2010 20:27:00 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/31/alcal%C3%A1-cortada-por-marcha-propalestina/</guid>
+      <description>Al final se llegó a la embajada de israel</description>
+    </item>
+    
+    <item>
+      <title>El código para quien lo  trabaja / El código para quien lo programa</title>
+      <link>http://blog.millaguie.net/2010/05/29/el-c%C3%B3digo-para-quien-lo-trabaja-el-c%C3%B3digo-para/</link>
+      <pubDate>Sat, 29 May 2010 13:22:33 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/29/el-c%C3%B3digo-para-quien-lo-trabaja-el-c%C3%B3digo-para/</guid>
+      <description>El código para quien lo trabaja / El código para quien lo programa
+—</description>
+    </item>
+    
+    <item>
+      <title>Ayer vi como una chica de unos 16 se encontraba con su madre y lo único que consiguió hacer fue gritarle “yo no he bebido”… tiempos mozos…</title>
+      <link>http://blog.millaguie.net/2010/05/29/ayer-vi-como-una-chica-de-unos-16-se-encontraba/</link>
+      <pubDate>Sat, 29 May 2010 13:06:05 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/29/ayer-vi-como-una-chica-de-unos-16-se-encontraba/</guid>
+      <description>Ayer vi como una chica de unos 16 se encontraba con su madre y lo único que consiguió hacer fue gritarle “yo no he bebido”… tiempos mozos…
+—</description>
+    </item>
+    
+    <item>
+      <title>Cocinar un cristo</title>
+      <link>http://blog.millaguie.net/2010/05/21/cocinar-un-cristo/</link>
+      <pubDate>Fri, 21 May 2010 14:19:54 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/21/cocinar-un-cristo/</guid>
+      <description>Cocinar un cristo</description>
+    </item>
+    
+    <item>
+      <title>gorrillas del ayuntamiento caminando por el carril</title>
+      <link>http://blog.millaguie.net/2010/05/18/gorrillas-del-ayuntamiento-caminando-por-el-carril/</link>
+      <pubDate>Tue, 18 May 2010 09:09:27 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/18/gorrillas-del-ayuntamiento-caminando-por-el-carril/</guid>
+      <description>gorrillas del ayuntamiento caminando por el carril bici</description>
+    </item>
+    
+    <item>
+      <title>alguien anda haciendo el mal en el metro</title>
+      <link>http://blog.millaguie.net/2010/05/18/alguien-anda-haciendo-el-mal-en-el-metro/</link>
+      <pubDate>Tue, 18 May 2010 08:52:55 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/18/alguien-anda-haciendo-el-mal-en-el-metro/</guid>
+      <description>alguien anda haciendo el mal en el metro</description>
+    </item>
+    
+    <item>
+      <title>Piedad Cordoba accidentada en un taxi cuando se dirigía al Encuentro Eurolatinoamericano Sobre los límites y posibilidades de las relaciones entre la Unión Europea y América Latina</title>
+      <link>http://blog.millaguie.net/2010/05/13/piedad-cordoba-accidentada-en-un-taxi-cuando-se/</link>
+      <pubDate>Thu, 13 May 2010 16:56:17 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/13/piedad-cordoba-accidentada-en-un-taxi-cuando-se/</guid>
+      <description>Piedad Cordoba accidentada en un taxi cuando se dirigía al Encuentro Eurolatinoamericano Sobre los límites y posibilidades de las relaciones entre la Unión Europea y América Latina
+—</description>
+    </item>
+    
+    <item>
+      <title>entrada a la facultad de derecho ucm 13 de mayo de</title>
+      <link>http://blog.millaguie.net/2010/05/13/entrada-a-la-facultad-de-derecho-ucm-13-de-mayo-de/</link>
+      <pubDate>Thu, 13 May 2010 13:38:51 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/13/entrada-a-la-facultad-de-derecho-ucm-13-de-mayo-de/</guid>
+      <description>Entrada a la facultad de derecho UCM 13 de Mayo de 2010</description>
+    </item>
+    
+    <item>
+      <title>El caso son 15.000 Millones de euros</title>
+      <link>http://blog.millaguie.net/2010/05/13/el-caso-son-15000-millones-de-euros/</link>
+      <pubDate>Thu, 13 May 2010 10:48:05 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/13/el-caso-son-15000-millones-de-euros/</guid>
+      <description>Sólo voy a enlazar dos noticias:
+La investigación de la trama ‘Gürtel’ destapa 15.000 millones de euros huídos de grandes fortunas. La cuenta de los españoles en Suiza Las nuevas medidas con las que el Gobierno quiere ahorrar 15.000 millones Así seguimos la máxima de socializar las perdidas y privatizar las ganancias… seguimos pagando el pato los de siempre y llevándose el pato al agua los de siempre.</description>
+    </item>
+    
+    <item>
+      <title>ahora me lo explico</title>
+      <link>http://blog.millaguie.net/2010/05/10/ahora-me-lo-explico/</link>
+      <pubDate>Mon, 10 May 2010 09:16:04 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/05/10/ahora-me-lo-explico/</guid>
+      <description>estoy pasando casi todos los dias por los pasillos de Diego de león, algunas veces hay una pareja de policía nacional en el cruce mas grande de pasillos.
+Durante un tiempo había pensado que por fin la seguridad en el metro volvía a ser una cuestión pública como lo era antaño.
+Cuando los he visto parando a dos chicos de aspecto peruano se me ha encendido la luz…</description>
+    </item>
+    
+    <item>
+      <title>En el metro de Madrid no hay ni un solo cuarto de baño para el público. 
+
+En el Metro de Madrid solo vuelas si te da un apretón…</title>
+      <link>http://blog.millaguie.net/2010/04/26/en-el-metro-de-madrid-no-hay-ni-un-solo-cuarto-de/</link>
+      <pubDate>Mon, 26 Apr 2010 09:52:37 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/04/26/en-el-metro-de-madrid-no-hay-ni-un-solo-cuarto-de/</guid>
+      <description>En el metro de Madrid no hay ni un solo cuarto de baño para el público.
+En el Metro de Madrid solo vuelas si te da un apretón…
+—</description>
+    </item>
+    
+    <item>
+      <title>Plegaria</title>
+      <link>http://blog.millaguie.net/2010/04/20/plegaria/</link>
+      <pubDate>Tue, 20 Apr 2010 11:54:41 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/04/20/plegaria/</guid>
+      <description>Software nuestro que estás en Internet,
+compilado sea tu código,
+venga a nosotros tus instaladores,
+ejecutense tus instrucciones tanto en el pc como en la nube,
+danos hoy nuestros correos de cada día,
+y perdona nuestros envíos en cadena,
+como nosotros también perdonamos a los que nos los envían,
+no nos dejes caer en la tentación,
+y libranos de Microsoft.
+Enter</description>
+    </item>
+    
+    <item>
+      <title>Ya venden calcetines para el Ipad… me pregunto si por fin serán negros con el cuello vuelto…</title>
+      <link>http://blog.millaguie.net/2010/04/09/ya-venden-calcetines-para-el-ipad-me-pregunto-si/</link>
+      <pubDate>Fri, 09 Apr 2010 17:15:30 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/04/09/ya-venden-calcetines-para-el-ipad-me-pregunto-si/</guid>
+      <description>Ya venden calcetines para el Ipad… me pregunto si por fin serán negros con el cuello vuelto…
+—</description>
+    </item>
+    
+    <item>
+      <title>Formateé mi disco principal en ntfs (obviamente por error)</title>
+      <link>http://blog.millaguie.net/2010/03/31/formate%C3%A9-mi-disco-principal-en-ntfs-obviamente/</link>
+      <pubDate>Wed, 31 Mar 2010 11:30:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/03/31/formate%C3%A9-mi-disco-principal-en-ntfs-obviamente/</guid>
+      <description>Y gracias a que tenía dos discos particionados igual y varios raid sobre particiones lo único que he tenido que hacer es:
+dd if=/dev/sdb of=/dev/sda bs=512 count=1
+mount /dev/md0 /mnt
+cd /mnt
+chroot .
+grub-install /dev/sda
+y reiniciar…
+se me ha recuperado hasta el raid0… a los raid1 he podido acceder en todo momento…
+así que:
+¡vivan los sistemas raid!
+¡viva ext4!</description>
+    </item>
+    
+    <item>
+      <title>Citibank me engaña</title>
+      <link>http://blog.millaguie.net/2010/03/11/citibank-me-enga%C3%B1a/</link>
+      <pubDate>Thu, 11 Mar 2010 21:38:25 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/03/11/citibank-me-enga%C3%B1a/</guid>
+      <description>Y esta vez no es que me cobren una comisión absurda o me intenten vender la moto de un prestamo al super interés del nosemucuantosmilporcien por ser tan guapo… no no… mucha más simple…
+En el reverso de mi tarjeta aparecen dos números de teléfono el 900111260 y el 933165913. Siempre llamo al 900 y luego una grabación me dice que ya no, que llame al 902123321, vamos que pase por la caja para hablar con atención al cliente.</description>
+    </item>
+    
+    <item>
+      <title>En la ciudad 2.0 los pasos de cebra tendrán las esquinas redondeadas.</title>
+      <link>http://blog.millaguie.net/2010/03/06/en-la-ciudad-20-los-pasos-de-cebra-tendr%C3%A1n-las/</link>
+      <pubDate>Sat, 06 Mar 2010 13:05:56 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/03/06/en-la-ciudad-20-los-pasos-de-cebra-tendr%C3%A1n-las/</guid>
+      <description>En la ciudad 2.0 los pasos de cebra tendrán las esquinas redondeadas.
+—</description>
+    </item>
+    
+    <item>
+      <title>tres dias de febrero en coreos</title>
+      <link>http://blog.millaguie.net/2010/03/01/tres-dias-de-febrero-en-coreos/</link>
+      <pubDate>Mon, 01 Mar 2010 20:03:44 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/03/01/tres-dias-de-febrero-en-coreos/</guid>
+      <description>tres dias de febrero en coreos</description>
+    </item>
+    
+    <item>
+      <title>que hacer si lavas en la lavadora una memoria</title>
+      <link>http://blog.millaguie.net/2010/02/23/que-hacer-si-lavas-en-la-lavadora-una-memoria/</link>
+      <pubDate>Tue, 23 Feb 2010 23:47:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/02/23/que-hacer-si-lavas-en-la-lavadora-una-memoria/</guid>
+      <description>Que hacer si lavas en la lavadora una memoria usb.
+Esto a mi me ha funcionado, pero puede que a ti no, de hecho puede que estropee tu ordenador cuando lo pinches en el usb… así que no me hago responsable de nada.
+Primero lo sacudes un poco para quitar la mayor parte de agua, luego buscas arroz y una bolsa, al ser posible de tela. Metes la memoria usb recubierta del arroz en la bolsa, y la dejas cerca de una fuente de calor, como un radiador si es invierno, detrás de la tele o el frigorifico…</description>
+    </item>
+    
+    <item>
+      <title>que hacer cuando el tipo superagradable de la</title>
+      <link>http://blog.millaguie.net/2010/02/23/que-hacer-cuando-el-tipo-superagradable-de-la/</link>
+      <pubDate>Tue, 23 Feb 2010 23:04:41 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/02/23/que-hacer-cuando-el-tipo-superagradable-de-la/</guid>
+      <description>que hacer cuando el tipo superagradable de la tienda olvida quitar el pito de seguridad</description>
+    </item>
+    
+    <item>
+      <title>Mata a tu rico</title>
+      <link>http://blog.millaguie.net/2010/02/23/mata-a-tu-rico/</link>
+      <pubDate>Tue, 23 Feb 2010 02:56:31 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/02/23/mata-a-tu-rico/</guid>
+      <description>Mata a tu rico
+—Respuesta de Pablo tras ver el final de “Capitalismo. Una historia de amor”</description>
+    </item>
+    
+    <item>
+      <title>Carné para llevar paraguas por puntos ¡YA!</title>
+      <link>http://blog.millaguie.net/2010/02/21/carn%C3%A9-para-llevar-paraguas-por-puntos-ya/</link>
+      <pubDate>Sun, 21 Feb 2010 19:38:52 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/02/21/carn%C3%A9-para-llevar-paraguas-por-puntos-ya/</guid>
+      <description>Carné para llevar paraguas por puntos ¡YA!
+—</description>
+    </item>
+    
+    <item>
+      <title>en la revolución digital… ¿las trincheras serán de gpg?</title>
+      <link>http://blog.millaguie.net/2010/01/28/en-la-revoluci%C3%B3n-digital-las-trincheras-ser%C3%A1n-de/</link>
+      <pubDate>Thu, 28 Jan 2010 01:57:16 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/01/28/en-la-revoluci%C3%B3n-digital-las-trincheras-ser%C3%A1n-de/</guid>
+      <description>en la revolución digital… ¿las trincheras serán de gpg?
+—</description>
+    </item>
+    
+    <item>
+      <title>salió lo nuevo de mac, ipad, un ipod touch tamaño hijoputa…  (y con 3g)…</title>
+      <link>http://blog.millaguie.net/2010/01/28/sali%C3%B3-lo-nuevo-de-mac-ipad-un-ipod-touch-tama%C3%B1o/</link>
+      <pubDate>Thu, 28 Jan 2010 01:43:08 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/01/28/sali%C3%B3-lo-nuevo-de-mac-ipad-un-ipod-touch-tama%C3%B1o/</guid>
+      <description>salió lo nuevo de mac, ipad, un ipod touch tamaño hijoputa… (y con 3g)…
+—</description>
+    </item>
+    
+    <item>
+      <title>de perspectiva de genero bien de gramática espero</title>
+      <link>http://blog.millaguie.net/2010/01/23/de-perspectiva-de-genero-bien-de-gram%C3%A1tica-espero/</link>
+      <pubDate>Sat, 23 Jan 2010 22:33:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/01/23/de-perspectiva-de-genero-bien-de-gram%C3%A1tica-espero/</guid>
+      <description>de perspectiva de genero bien, de gramática espero que mal, de violencia lo justo…</description>
+    </item>
+    
+    <item>
+      <title>La SGAE ya tiene poderes de supervaca, ahora puede decirle a un juez lo que tiene que tardar en dictar la sentencia… lo siguiente es que solamente puedan dictar a favor de la SGAE…
+Lo próximo es que sacaran a juez Dredd a patrullar bodas, bautizos y comuniones.
+
+y tonto de mi me sigo rebuscando en los bolsillos del pantalón, yo tenía unos derechos, estoy gili lo pierdo todo…</title>
+      <link>http://blog.millaguie.net/2010/01/09/la-sgae-ya-tiene-poderes-de-supervaca-ahora-puede/</link>
+      <pubDate>Sat, 09 Jan 2010 03:15:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/01/09/la-sgae-ya-tiene-poderes-de-supervaca-ahora-puede/</guid>
+      <description>La SGAE ya tiene poderes de supervaca, ahora puede decirle a un juez lo que tiene que tardar en dictar la sentencia… lo siguiente es que solamente puedan dictar a favor de la SGAE…
+Lo próximo es que sacaran a juez Dredd a patrullar bodas, bautizos y comuniones.
+y tonto de mi me sigo rebuscando en los bolsillos del pantalón, yo tenía unos derechos, estoy gili lo pierdo todo…</description>
+    </item>
+    
+    <item>
+      <title>Buitres negros en Monfragüe</title>
+      <link>http://blog.millaguie.net/2010/01/08/buitres-negros-en-monfrag%C3%BCe/</link>
+      <pubDate>Fri, 08 Jan 2010 19:21:00 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2010/01/08/buitres-negros-en-monfrag%C3%BCe/</guid>
+      <description>Acabo de cruzarme con una pareja, un chico y una chica de unos diecisiete años cogiditos de la mano. Me ha hecho especial ilusión por que iban cantando a extremoduro.
+En Monfragüe buitres negros (bis) (bis) (bis)
+Cuando han berreado un par de veces el estribillo, la chica se ha girado al chico y le ha preguntad, “¿Qué es Monfragüe?”.
+Ojoplático he bajado la cabeza y he seguido renegando mi camino, mientras pensaba, “por lo menos conocen a extremoduro”…</description>
+    </item>
+    
+    <item>
+      <title>Siempre se ha dicho que algo es fácil cuando lo puede usar un niño de 5 años, últimamente no hago más que repetir que es fácil por que lo puede usar cualquier persona de 50 años… Bendita edad digital</title>
+      <link>http://blog.millaguie.net/2009/12/16/siempre-se-ha-dicho-que-algo-es-f%C3%A1cil-cuando-lo/</link>
+      <pubDate>Wed, 16 Dec 2009 18:21:14 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2009/12/16/siempre-se-ha-dicho-que-algo-es-f%C3%A1cil-cuando-lo/</guid>
+      <description>Siempre se ha dicho que algo es fácil cuando lo puede usar un niño de 5 años, últimamente no hago más que repetir que es fácil por que lo puede usar cualquier persona de 50 años… Bendita edad digital
+—</description>
+    </item>
+    
+    <item>
+      <title>y aún os preguntáis por qué prefiero el baloncesto</title>
+      <link>http://blog.millaguie.net/2009/12/13/y-a%C3%BAn-os-pregunt%C3%A1is-por-qu%C3%A9-prefiero-el-baloncesto/</link>
+      <pubDate>Sun, 13 Dec 2009 04:06:58 -0600</pubDate>
+      
+      <guid>http://blog.millaguie.net/2009/12/13/y-a%C3%BAn-os-pregunt%C3%A1is-por-qu%C3%A9-prefiero-el-baloncesto/</guid>
+      <description>y aún os preguntáis por qué prefiero el baloncesto al fútbol….</description>
+    </item>
+    
+    <item>
+      <title>dialéctica</title>
+      <link>http://blog.millaguie.net/2009/10/06/dial%C3%A9ctica/</link>
+      <pubDate>Tue, 06 Oct 2009 16:54:57 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2009/10/06/dial%C3%A9ctica/</guid>
+      <description>dialéctica</description>
+    </item>
+    
+    <item>
+      <title>Cuando eres pequeño te crees que la vida es como una pelicula de hollywood, cuando llegas a los 30 te das cuenta que se parece más a una película inglesa.</title>
+      <link>http://blog.millaguie.net/2009/09/17/cuando-eres-peque%C3%B1o-te-crees-que-la-vida-es-como/</link>
+      <pubDate>Thu, 17 Sep 2009 01:51:15 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2009/09/17/cuando-eres-peque%C3%B1o-te-crees-que-la-vida-es-como/</guid>
+      <description>Cuando eres pequeño te crees que la vida es como una pelicula de hollywood, cuando llegas a los 30 te das cuenta que se parece más a una película inglesa.
+—</description>
+    </item>
+    
+    <item>
+      <title>¿Tan difícil es entender la palabra imposible?
+
+Económicamente: imposible.
+En esos tiempos: imposible.
+Tecnológicamente: en esos tiempos y con ese dinero, imposible.
+
+y aún siguen dándole vueltas para que se haga…</title>
+      <link>http://blog.millaguie.net/2009/09/16/tan-dif%C3%ADcil-es-entender-la-palabra-imposible/</link>
+      <pubDate>Wed, 16 Sep 2009 12:13:25 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2009/09/16/tan-dif%C3%ADcil-es-entender-la-palabra-imposible/</guid>
+      <description>¿Tan difícil es entender la palabra imposible?
+Económicamente: imposible.
+En esos tiempos: imposible.
+Tecnológicamente: en esos tiempos y con ese dinero, imposible.
+y aún siguen dándole vueltas para que se haga…
+—</description>
+    </item>
+    
+    <item>
+      <title>¿y a mi por qué la policia no me pide los papeles? será que no soy negro como los dos chicos a los que sí se los pedían…
+
+(esta mañana al salir del metro)</title>
+      <link>http://blog.millaguie.net/2009/09/10/y-a-mi-por-qu%C3%A9-la-policia-no-me-pide-los-papeles/</link>
+      <pubDate>Thu, 10 Sep 2009 09:55:19 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2009/09/10/y-a-mi-por-qu%C3%A9-la-policia-no-me-pide-los-papeles/</guid>
+      <description>¿y a mi por qué la policia no me pide los papeles? será que no soy negro como los dos chicos a los que sí se los pedían…
+(esta mañana al salir del metro)
+—</description>
+    </item>
+    
+    <item>
+      <title>creo que yo también tengo una corazonada</title>
+      <link>http://blog.millaguie.net/2009/09/09/creo-que-yo-tambi%C3%A9n-tengo-una-corazonada/</link>
+      <pubDate>Wed, 09 Sep 2009 12:56:04 -0500</pubDate>
+      
+      <guid>http://blog.millaguie.net/2009/09/09/creo-que-yo-tambi%C3%A9n-tengo-una-corazonada/</guid>
+      <description>Creo que yo también tengo una corazonada</description>
+    </item>
+    
   </channel>
 </rss>

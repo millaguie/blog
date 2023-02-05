@@ -1,3 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/tumblr"]
+	path = themes/tumblr
+	url = https://github.com/carlmjohnson/tumblr-importr.git
+[submodule "themes/paige"]
+	path = themes/paige
+	url = https://github.com/willfaught/paige.git
