@@ -2,9 +2,11 @@
 title: "Terraform Operations"
 date: 2023-01-30T15:54:43+01:00
 draft: true
+tags:
+  - terraform
+  - devops
+  - IaC
 ---
-
-# Terraform operations
 
 When IaC becomes dirty.
 
